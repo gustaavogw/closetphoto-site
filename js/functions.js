@@ -16,4 +16,8 @@ $(function(){
         })
     }
 
+    $("#Share").jsSocials({
+        shares: ["twitter", "facebook", "linkedin", "pinterest", "whatsapp"]
+    });
+
 })
